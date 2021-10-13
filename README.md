@@ -17,10 +17,11 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 - [ ] User can pull to refresh. (1pt)
-- [ ] User can load past posts infinitely. (2pts)
+- [x] User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+![Instagram part 1 gif](https://user-images.githubusercontent.com/88856401/137062969-0ab2b4e7-3263-436d-b5f7-861f2dae5fe1.gif)
