@@ -47,8 +47,8 @@ The following bonus features are implemented:
 
 Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:![ezgif com-video-to-gif](https://user-images.githubusercontent.com/88856401/137842270-ff91e244-49f2-4398-bfa8-e5896b96c84e.gif)
 
-https://user-images.githubusercontent.com/88856401/137841650-83e1e6ca-ade9-45b9-a8c1-06405f1c02d6.mov
+
 
 
